@@ -1,9 +1,9 @@
 # algoritmo_genetico_congresos
 
 Actividad realizada para:
-Grado en Ingeniería Informática en UDIMA
-Asignatura Progamación avanzada
-AA1 - Algoritmos genéticos 
+- Grado en Ingeniería Informática en UDIMA
+- Asignatura Progamación avanzada
+- AA1 - Algoritmos genéticos 
 
 
 Aplicación que lleva a cabo la planificación de congresos o jornadas en las que se vaya a ofrecer la participación en talleres, sea cual sea la temática.
